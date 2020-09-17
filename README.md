@@ -1,7 +1,7 @@
 ## Netflix Clone
 
 An Identical netflix react web app hosted on firebase. [the netflix demo website](https://netflix-clone-7fdc7.web.app/).
-The react app deals only with the front-end, users cannot login yet :)
+The react app deals only with the front-end, users cannot login yet :) Clicking on some tv shows or movies will bring up the trailer from youtube
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
