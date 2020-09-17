@@ -1,6 +1,6 @@
 ## Netflix Clone
 
-An Identical netflix react web app hosted on firebase. [https://netflix-clone-7fdc7.web.app/](the netflix demo website).
+An Identical netflix react web app hosted on firebase. [the netflix demo website](https://netflix-clone-7fdc7.web.app/).
 The react app deals only with the front-end, users cannot login yet :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
